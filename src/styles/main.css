@@ -2024,3 +2024,8 @@ main {
     gap: 10px;
   }
 }
+
+.accounts-donut-segment.is-hover {
+  filter: brightness(1.25);
+  stroke-width: 22px;
+}
